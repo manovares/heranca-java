@@ -1,3 +1,5 @@
+package Exercicio1;
+
 //Super Classe - Classe Base
 public class Veiculo {
     private String marca;

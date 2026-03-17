@@ -1,3 +1,5 @@
+package Exercicio1;
+
 public class TesteHerancaVeiculo{
     public static void main(String[] args) {
         System.out.println("--- Teste do Carro ----");

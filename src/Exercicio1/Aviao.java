@@ -1,3 +1,5 @@
+package Exercicio1;
+
 public class Aviao extends Veiculo {
 
     private int numerodeMotores;

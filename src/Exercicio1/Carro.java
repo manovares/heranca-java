@@ -1,3 +1,5 @@
+package Exercicio1;
+
 //Subclasse: Carro (herda de Vei´culo)
 public class Carro extends Veiculo {
     private int numeroPortas;
